@@ -1,0 +1,45 @@
+{
+  "_from": "leaflet-ellipse@^0.9.1",
+  "_id": "leaflet-ellipse@0.9.1",
+  "_inBundle": false,
+  "_integrity": "sha512-WaTh+/7dwtn8h+WsUebxl2KS4diZ9Cpci5dBlzp92pSLNeWGLlmFz0/WTzeyVwxrYwojZHZvYfVmT2Xv9u5TCA==",
+  "_location": "/leaflet-ellipse",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "leaflet-ellipse@^0.9.1",
+    "name": "leaflet-ellipse",
+    "escapedName": "leaflet-ellipse",
+    "rawSpec": "^0.9.1",
+    "saveSpec": null,
+    "fetchSpec": "^0.9.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/leaflet-ellipse/-/leaflet-ellipse-0.9.1.tgz",
+  "_shasum": "abef7447dd0cfc69fd1f3bec07f0e3d59a7ecfa2",
+  "_spec": "leaflet-ellipse@^0.9.1",
+  "_where": "D:\\预研项目\\leaflet\\leafletTest01\\src\\supermap",
+  "bugs": {
+    "url": "https://github.com/jdfergason/Leaflet.Ellipse/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A basic ellipse type for Leaflet, a JS library for interactive maps.",
+  "homepage": "https://github.com/jdfergason/Leaflet.Ellipse#readme",
+  "keywords": [
+    "gis",
+    "map"
+  ],
+  "license": "Apache 2.0",
+  "main": "l.ellipse.js",
+  "name": "leaflet-ellipse",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jdfergason/Leaflet.Ellipse.git"
+  },
+  "version": "0.9.1"
+}

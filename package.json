@@ -12,7 +12,10 @@
   },
   "dependencies": {
     "echarts": "^4.7.0",
+    "esri-leaflet": "^2.4.1",
     "leaflet": "^1.6.0",
+    "leaflet-ellipse": "^0.9.1",
+    "leaflet.chinatmsproviders": "^3.0.2",
     "sass-loader": "^8.0.2",
     "vue": "^2.5.2"
   },

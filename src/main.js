@@ -7,6 +7,8 @@ import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import utils from './utils'
 import './assets/style/index.css'
+import 'leaflet-ellipse/l.ellipse.min'
+import 'leaflet-ellipse/l.ellipse'
 
 Vue.prototype.$utils = utils
 Vue.config.productionTip = false
